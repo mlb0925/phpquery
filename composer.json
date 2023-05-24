@@ -27,6 +27,7 @@
             "role":"Packager"
         }
     ],
+    "minimum-stability": "stable",
     "require":{
         "php":">=5.3.3",
         "sabberworm/php-css-parser":"5.1.*"
