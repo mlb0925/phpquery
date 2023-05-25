@@ -1,4 +1,5 @@
 # Revisiting PhpQuery
+支持 php7.4+以上的版本 
 
 [![Build Status](https://travis-ci.org/wittiws/phonarc.png?branch=master)](https://travis-ci.org/wittiws/phonarc)
 
