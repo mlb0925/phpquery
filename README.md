@@ -1,6 +1,11 @@
 # Revisiting PhpQuery
 支持 php7.4+以上的版本 
 
+# 使用方法
+```
+composer require mlb0925/phpquery
+```
+
 [![Build Status](https://travis-ci.org/wittiws/phonarc.png?branch=master)](https://travis-ci.org/wittiws/phonarc)
 
 ## Basic usage of this fork
